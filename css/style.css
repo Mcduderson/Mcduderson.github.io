@@ -1,0 +1,21 @@
+body{
+    background-image: url(background.jpg);
+}
+
+.container{
+    background-color: white;
+}
+
+.styling{
+    padding: 30px;
+    margin-bottom: 30px;
+
+}
+
+html{
+    position: relative;
+}
+
+.navbar-brand{
+    background-color:rgb(42, 199, 252);
+}

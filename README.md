@@ -1,1 +1,3 @@
 # Mcduderson.github.io
+
+## Purpose
