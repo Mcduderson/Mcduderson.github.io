@@ -10,3 +10,5 @@ Added personal information and picture to About section.
 Added semantics in place on divs.
 Utilized Bootstrap throughout.
 Utilized css reset.
+
+Link to deployed site: https://mcduderson.github.io/
